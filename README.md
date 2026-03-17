@@ -11,7 +11,7 @@ This repository contains a Django project named `project_blog`.
 
 ```powershell
 git clone <your-repo-url>
-cd django-HIT237-2026-week2-practicals
+cd django-HIT237-2026-week2/3-practicals
 ```
 
 ## 2. Create and activate a virtual environment
